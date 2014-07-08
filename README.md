@@ -47,9 +47,9 @@ The appearence and behavior of the touch indicators can be modified by changing 
 Inspiration
 ===========
 
-This project was inspired by Rob Terrell's work on iOS device video output.
+This project was originally inspired by [Rob Terrell's work on iOS device video output](http://www.touchcentric.com/blog/archives/3).
 
-See original implementation and writeup here:
+See original write-up and demo video here:
 
 *    [http://www.theevilboss.com/2009/10/iphone-video-output.html](http://www.theevilboss.com/2009/10/iphone-video-output.html)    
 *    [https://www.youtube.com/watch?v=rvGOP87RA7A](https://www.youtube.com/watch?v=rvGOP87RA7A)
