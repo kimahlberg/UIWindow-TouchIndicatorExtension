@@ -6,8 +6,7 @@ A UIWindow extension for indicating the user's touches on screen.
 Usage
 =====
 
-To activate the touch indicators, simply call the following code at the end of your
-application delegate's -applicationDidBecomeActive: method.
+Add the file `UIWindow+TouchIndicatorExtension.m` to your project and call the following code at the end of your application delegate's -applicationDidBecomeActive: method to activate the touch indicators.
 
     UIWindow *keyWindow = [[UIApplication sharedApplication] keyWindow];
     [keyWindow performSelector:@selector(startIndicatingTouches)];
