@@ -6,7 +6,7 @@
 //
 //  The MIT License (MIT)
 //
-//    Copyright (c) 2010-2014 Kim Ahlberg
+//    Copyright (c) 2010-2015 Kim Ahlberg
 //
 //    Permission is hereby granted, free of charge, to any person obtaining a copy
 //    of this software and associated documentation files (the "Software"), to deal
@@ -46,6 +46,8 @@
 //    UIWindow *keyWindow = [[UIApplication sharedApplication] keyWindow];
 //    [keyWindow performSelector:@selector(stopIndicatingTouches)];
 //
+
+#import <UIKit/UIKit.h>
 
 // Touch indicator appearence settings.
 #define kTouchIndicatorRadius 11.0
