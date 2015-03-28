@@ -50,7 +50,7 @@
 #import <UIKit/UIKit.h>
 
 // Touch indicator appearence settings.
-#define kTouchIndicatorRadius 11.0
+#define kTouchIndicatorRadius 15.0
 #define kTouchIndicatorBorderWidth 4.0
 #define kTouchIndicatorColor [UIColor colorWithRed:0.0 green:0.0 blue:0.0 alpha:0.5]
 #define kTouchIndicatorBorderColor [UIColor colorWithRed:0.9 green:0.9 blue:0.9 alpha:0.5]
